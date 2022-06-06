@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\bin\Debug\net6.0\Task_63.exe
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\bin\Debug\net6.0\Task_63.deps.json
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\bin\Debug\net6.0\Task_63.runtimeconfig.json
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\bin\Debug\net6.0\Task_63.dll
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\bin\Debug\net6.0\Task_63.pdb
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\obj\Debug\net6.0\Task_63.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\obj\Debug\net6.0\Task_63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\obj\Debug\net6.0\Task_63.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\obj\Debug\net6.0\Task_63.AssemblyInfo.cs
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\obj\Debug\net6.0\Task_63.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\obj\Debug\net6.0\Task_63.dll
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\obj\Debug\net6.0\refint\Task_63.dll
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\obj\Debug\net6.0\Task_63.pdb
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\obj\Debug\net6.0\Task_63.genruntimeconfig.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\009 - Seminar 2022 06 06\Task_63\obj\Debug\net6.0\ref\Task_63.dll
